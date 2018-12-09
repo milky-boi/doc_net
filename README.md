@@ -1,4 +1,26 @@
 # doc_net
+
+from newspaper import Article 
+
+import re 
+import operator
+import time
+import string
+from collections import Counter
+
+**pip install numpy**
+import matplotlib.pyplot as plt
+import numpy as np
+
+**pip install networkx**
+import networkx as nx 
+
+**pip instal nltk**
+**nltk.download**
+from nltk.corpus import stopwords 
+from nltk.stem import WordNetLemmatizer
+
+
 create folders: clanci, freq, img, nodes, veze
 
 run in cmd:
