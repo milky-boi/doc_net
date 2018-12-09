@@ -4,11 +4,11 @@ create folders: clanci, freq, img, nodes, veze
 run in cmd:
 **mkdir clanci, freq, img, nodes, veze**
 
-*program.py loads urls.txt *
+_program.py loads urls.txt_
 **python program.py**
 
-*run lem.py to get nodes and edges for graph* 
+_run lem.py to get nodes and edges for graph_ 
 **python lem.py**
 
-*network.py gets global info about network of documents *
+_network.py gets global info about network of documents_
 **python network.py**
